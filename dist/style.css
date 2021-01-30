@@ -1,3 +1,8 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    background: url(img/widewp_1282.jpg) no-repeat 50%/cover;
+}
 .d-flex {
     display: flex;
 }
